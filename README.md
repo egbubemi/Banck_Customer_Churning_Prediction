@@ -1,1 +1,1 @@
-# Banck_Customer_Churning_Prediction
+# Bank_Customer_Churning_Prediction
